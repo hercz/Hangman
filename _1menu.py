@@ -68,6 +68,3 @@ def the_menu():
             exit()
 
 
-the_menu()
-
-
